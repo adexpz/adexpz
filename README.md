@@ -7,7 +7,7 @@
 
 ---
 
-## Linguagens e tecnologias
+## 🚀 Tecnologias que uso
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
@@ -16,16 +16,14 @@
 
 ---
 
-## Meus repositórios favoritos
+## 📂 Projetos favoritos
 
-<p>
-  <a href="https://github.com/adexpz/40-questoes-senac" target="_blank">40 Questões Senac</a> |
-  <a href="https://github.com/adexpz/OutroRepo" target="_blank">Outro Repositório</a>
-</p>
+- [40 Questões Senac](https://github.com/adexpz/40-questoes-senac)  
+<!-- Você pode adicionar mais links aqui -->
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Me encontre por aqui
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adexpz)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
