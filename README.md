@@ -30,9 +30,8 @@ Currently exploring **Python**, **C#**, **JavaScript**, **Java**, and **HTML/CSS
 ## 📫 How to reach me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adexpz)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/adex-lk-b219a636b/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adex-lk-b219a636b/)
 
 ---
 
 > “Always learning, always growing.”
-
