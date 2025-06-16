@@ -9,13 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Generate snake (light)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          outputs: dist/github-snake.svg
+
+      - name: Generate snake (dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          palette: github-dark
+          outputs: dist/github-snake-dark.svg
+
       - name: Push output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
