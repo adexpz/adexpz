@@ -1,4 +1,5 @@
 # 👋 Hello, I'm adexpz!
+![snake gif](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/assets/Readme/snake.gif)
 
 I'm a passionate developer always eager to learn new programming languages and technologies.  
 Currently, I'm diving deeper into **Python**, while also working with **C#** and exploring **JavaScript**, **Java**, and **HTML**.
