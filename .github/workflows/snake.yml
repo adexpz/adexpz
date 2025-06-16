@@ -2,7 +2,7 @@ name: Snake generator
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"  # roda a cada hora
   workflow_dispatch:
 
 jobs:
@@ -21,6 +21,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           args: --palette github-dark
           outputs: dist/github-snake-dark.svg
+
+      - name: List dist folder
+        run: ls -la dist
 
       - name: Configure Git
         run: |
