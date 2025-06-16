@@ -2,7 +2,7 @@ name: Snake generator
 
 on:
   schedule:
-    - cron: "0 * * * *"  # roda a cada hora
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,6 +21,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           palette: github-dark
           outputs: dist/github-snake-dark.svg
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Push output branch
         uses: crazy-max/ghaction-github-pages@v4
