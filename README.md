@@ -1,35 +1,29 @@
-# Olá, eu sou o Adex Lk 👋
+# 👋 Hello, I'm adexpz!
 
-![snake gif](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/assets/Readme/snake.gif)
-
-🎯 Estudante de programação | Apaixonado por C#, .NET e desenvolvimento  
-🚀 Trabalhando para me tornar um dev completo e entregar projetos incríveis
+I'm a passionate developer always eager to learn new programming languages and technologies.  
+Currently, I'm diving deeper into **Python**, while also working with **C#** and exploring **JavaScript**, **Java**, and **HTML**.
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Skills
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📂 Projetos favoritos
-
-- [40 Questões Senac](https://github.com/adexpz/40-questoes-senac)  
-<!-- Você pode adicionar mais links aqui -->
+- 🐍 Python *(in progress)*
+- 💻 C# *(intermediate)*
+- 🌐 JavaScript *(in progress)*
+- ☕ Java *(in progress)*
+- 🖌️ HTML / CSS *(in progress)*
 
 ---
 
-## 📫 Me encontre por aqui
+## 🛠️ Tools & Technologies
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adexpz)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+- **IDEs:** Visual Studio, VS Code, IntelliJ  
+- **Version Control:** Git, GitHub  
+- **Frameworks:** .NET, Django, Node.js  
+- **Databases:** MySQL, PostgreSQL  
+- **Other:** RESTful APIs, OOP, Algorithms & Data Structures
 
----
-
-## ⚡ Curiosidade
-
-> “Aprender nunca é demais, sempre tem um próximo nível.”
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9B4F96?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
